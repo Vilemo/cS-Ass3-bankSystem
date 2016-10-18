@@ -1,0 +1,11 @@
+C:\Users\edyta.marcisz\Desktop\C#\cS-Assignment3-bankSystem\cS-Assignment3-bankSystem\bin\Debug\cS-Assignment3-bankSystem.exe.config
+C:\Users\edyta.marcisz\Desktop\C#\cS-Assignment3-bankSystem\cS-Assignment3-bankSystem\bin\Debug\cS-Assignment3-bankSystem.exe
+C:\Users\edyta.marcisz\Desktop\C#\cS-Assignment3-bankSystem\cS-Assignment3-bankSystem\bin\Debug\cS-Assignment3-bankSystem.pdb
+C:\Users\edyta.marcisz\Desktop\C#\cS-Assignment3-bankSystem\cS-Assignment3-bankSystem\obj\Debug\cS-Assignment3-bankSystem.csprojResolveAssemblyReference.cache
+C:\Users\edyta.marcisz\Desktop\C#\cS-Assignment3-bankSystem\cS-Assignment3-bankSystem\obj\Debug\cS_Assignment3_bankSystem.Form1.resources
+C:\Users\edyta.marcisz\Desktop\C#\cS-Assignment3-bankSystem\cS-Assignment3-bankSystem\obj\Debug\cS_Assignment3_bankSystem.Properties.Resources.resources
+C:\Users\edyta.marcisz\Desktop\C#\cS-Assignment3-bankSystem\cS-Assignment3-bankSystem\obj\Debug\cS-Assignment3-bankSystem.csproj.GenerateResource.Cache
+C:\Users\edyta.marcisz\Desktop\C#\cS-Assignment3-bankSystem\cS-Assignment3-bankSystem\obj\Debug\cS-Assignment3-bankSystem.exe
+C:\Users\edyta.marcisz\Desktop\C#\cS-Assignment3-bankSystem\cS-Assignment3-bankSystem\obj\Debug\cS-Assignment3-bankSystem.pdb
+C:\Users\edyta.marcisz\Desktop\C#\cS-Assignment3-bankSystem\cS-Assignment3-bankSystem\obj\Debug\Interop.ADODB.dll
+C:\Users\edyta.marcisz\Desktop\C#\cS-Assignment3-bankSystem\cS-Assignment3-bankSystem\obj\Debug\cS-Assignment3-bankSystem.csproj.ResolveComReference.cache
